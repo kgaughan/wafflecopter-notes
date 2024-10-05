@@ -1,3 +1,3 @@
-# wafflecopter
+# Wafflecopter
 
 A notetaking application.
