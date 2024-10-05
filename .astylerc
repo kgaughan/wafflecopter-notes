@@ -1,0 +1,5 @@
+--style=java
+--indent=force-tab
+--lineend=linux
+--exclude=build
+--suffix=none
